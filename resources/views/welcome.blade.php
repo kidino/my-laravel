@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Dino Laravel App 
+                    Dino Push Laravel
                 </div>
 
                 <div class="links">
